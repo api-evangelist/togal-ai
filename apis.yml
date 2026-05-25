@@ -1,0 +1,84 @@
+aid: togal-ai
+name: Togal.AI
+description: >-
+  Togal.AI is a Miami, Florida construction-technology company building
+  AI-powered takeoff and estimating software for the architecture, engineering,
+  and construction (AEC) industry. Founded by former U.S. Congressman Patrick
+  Murphy out of his family's multi-generational construction business, the
+  cloud-based platform applies computer-vision and deep-learning models to
+  architectural drawings and blueprints to automatically detect, measure,
+  count, label, and compare project spaces and features — reporting up to 98%
+  accuracy against AIA measurement standards and reducing manual estimating
+  effort by roughly 80%. Signature capabilities include the Togal Button
+  (one-click automated takeoff), AI-powered image, text, and pattern search
+  across plan sets, drawing-set comparison for change quantification, real-
+  time multi-user cloud collaboration, and Togal.CHAT, a natural-language
+  assistant that lets estimators query plans, verify quantities, identify
+  errors, and draft RFPs. The product serves drywall, electrical, mechanical,
+  plumbing, glazing, landscaping, painting, FF&E, and general-contracting
+  trades, with documented case studies (e.g., Coastal Construction) showing
+  multi-hour-per-plan-set savings and seven-figure annual ROI. Togal.AI's
+  revenue model is SaaS subscriptions sold to estimators, subcontractors, and
+  general contractors; there is no public developer API, SDK, or open-source
+  release, and the only known third-party integration is Service Titan plus
+  data export to Excel and downstream estimating tools.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Construction
+  - Construction Technology
+  - AEC
+  - Estimating
+  - Takeoff
+  - Blueprints
+  - Computer Vision
+  - Deep Learning
+  - Document AI
+  - Drawing Analysis
+  - SaaS
+  - Miami
+url: https://raw.githubusercontent.com/api-evangelist/togal-ai/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.togal.ai
+  - type: HowItWorks
+    url: https://www.togal.ai/how-it-works
+  - type: Features
+    url: https://www.togal.ai/features
+  - type: Pricing
+    url: https://www.togal.ai/pricing
+  - type: About
+    url: https://www.togal.ai/about
+  - type: Demo
+    url: https://www.togal.ai/demo
+  - type: Login
+    url: https://www-prod.togal.ai/auth/login
+  - type: Blog
+    url: https://www.togal.ai/blog
+  - type: CaseStudies
+    url: https://www.togal.ai/case-study/coastal-construction-case-study
+  - type: FAQ
+    url: https://www.togal.ai/faq
+  - type: HelpCenter
+    url: https://help.togal.ai
+  - type: Integrations
+    url: https://help.togal.ai/integrations
+  - type: Support
+    url: https://www.togal.ai/support
+  - type: Careers
+    url: https://www.togal.ai/careers
+  - type: Contact
+    url: https://www.togal.ai/contact
+  - type: GitHub
+    url: https://github.com/Togal-ai-Team
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/togal-ai
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
