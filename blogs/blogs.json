@@ -2,11 +2,11 @@
   "repo": "togal-ai",
   "feeds": [
     {
-      "source": "https://www.togal.ai/blog",
+      "source": "https://www.togal.ai/blog/rss.xml",
       "feed_url": "https://www.togal.ai/blog/rss.xml",
       "title": "",
-      "saved": 0,
-      "method": "discovered"
+      "saved": 9,
+      "method": "feed"
     },
     {
       "source": "https://www-prod.togal.ai/auth/login",
@@ -16,6 +16,6 @@
       "method": "none"
     }
   ],
-  "post_count": 9,
-  "fetched": "2026-06-14T20:42:17Z"
+  "post_count": 21,
+  "fetched": "2026-06-27T12:03:07Z"
 }
