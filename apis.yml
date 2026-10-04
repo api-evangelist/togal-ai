@@ -55,7 +55,7 @@ tags:
   - Estimating
   - Takeoff
   - Blueprints
-  - Computer-Vision
+  - Computer Vision
   - Deep Learning
   - Document AI
   - Drawing Analysis
@@ -74,6 +74,7 @@ tags_raw:
   - Drawing Analysis
   - SaaS
   - Miami
+  - Computer-Vision
 url: https://raw.githubusercontent.com/api-evangelist/togal-ai/refs/heads/main/apis.yml
 created: '2026-05-24'
 modified: '2026-05-24'
